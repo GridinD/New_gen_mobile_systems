@@ -1,0 +1,4 @@
+/home/danila/New_gen_mobile_systems/build/CMakeFiles/server.dir
+/home/danila/New_gen_mobile_systems/build/CMakeFiles/client.dir
+/home/danila/New_gen_mobile_systems/build/CMakeFiles/edit_cache.dir
+/home/danila/New_gen_mobile_systems/build/CMakeFiles/rebuild_cache.dir
